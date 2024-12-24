@@ -4,7 +4,7 @@
 ![Image 1](https://res.cloudinary.com/ddsqjzrow/image/upload/v1735058460/image_12_aqbcpg.png)
 ![Image 2](https://res.cloudinary.com/ddsqjzrow/image/upload/v1735058460/image_13_aatiha.png)
 ![Image 3](https://res.cloudinary.com/ddsqjzrow/image/upload/v1735058460/image_14_zkarkj.png)
-![Image 4](https://res.cloudinary.com/ddsqjzrow/image/upload/v1735058460/image_15_xj4l5h.png)
+![Image 4]([https://res.cloudinary.com/ddsqjzrow/image/upload/v1735058460/image_15_xj4l5h.png])
 
 
 
@@ -37,7 +37,7 @@ Ensure you have the following installed on your machine:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/Neel-max-cpu/project_assignment.git
+git clone https://github.com/kunalrawat19/assignment_project.git
 ```
 
 ### Step 2: Navigate to the Project Directory
