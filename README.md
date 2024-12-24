@@ -9,15 +9,13 @@
 
 
 # References
-- **Chat GPT**
-- **V0(by vercel)**
 - **YouTube**
+- **Chat GPT**
 - **Shadcn documentation**
 
 ## Overview
 This is the given assignment for a frontend internship at CodeAnt AI.
 
-## Check the video for the brief of the project without running here  -> [Link](https://youtu.be/RxTaOd8njWU) ⭐
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
