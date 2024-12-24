@@ -1,11 +1,11 @@
 # CodeAnt AI Project Assignment
 
 # Images of the App :memo:
-![Image 1](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/1.png?raw=true)
-![Image 2](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/2.png?raw=true)
-![Image 3](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/3.png?raw=true)
-![Image 4](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/4.png?raw=true)
-![Image 5](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/5.png?raw=true)
+![Image 1](https://res.cloudinary.com/ddsqjzrow/image/upload/v1735058460/image_12_aqbcpg.png)
+![Image 2](https://res.cloudinary.com/ddsqjzrow/image/upload/v1735058460/image_13_aatiha.png)
+![Image 3](https://res.cloudinary.com/ddsqjzrow/image/upload/v1735058460/image_14_zkarkj.png)
+![Image 4](https://res.cloudinary.com/ddsqjzrow/image/upload/v1735058460/image_15_xj4l5h.png)
+
 
 
 # References
